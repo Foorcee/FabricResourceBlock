@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "de.foorcee.resourceblock.mixin",
+  "mixins": [
+  ],
+  "client": [
+    "client.MixinConfirmScreen"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
